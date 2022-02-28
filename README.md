@@ -25,9 +25,9 @@ bad bad
    - Python 3.6+
    - should have basic knowledge in python
 
-Copyright & License
-
-© 2022 Suresh. P Code released under MIT License
+# Copyright & License
+© 2022 Suresh Pandiyan | 
+Code released under MIT License
 
 
 ###### nobody can't remembers numbers instead of character quickly, it's take plenty of hours to recognize, don't worry, Happy to use !!
